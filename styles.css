@@ -77,6 +77,14 @@ header span {
     margin-bottom: 20px;
 }
 
+.attribution {
+    margin-top: 30px;
+    color: hsl(0, 0%, 100%);
+}
+
+.attribution a {
+    color: hsl(277, 64%, 61%);
+}
 
 @media (min-width:801px) {
     #card {
@@ -121,15 +129,6 @@ header span {
     #stats p {
         margin-top: 5px;
         font-size: 10px;
-    }
-    
-    .attribution {
-        margin-top: 30px;
-        color: hsl(0, 0%, 100%);
-    }
-
-    .attribution a {
-        color: hsl(277, 64%, 61%);
     }
 
 }
